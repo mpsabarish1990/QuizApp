@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "quiz-app",
+    "libraryId": "58215ec8-3008-410b-8411-5b9a17bf795f",
+    "environment": "spo"
+  }
+}
